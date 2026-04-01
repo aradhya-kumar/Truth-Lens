@@ -2,23 +2,19 @@
 Dataset/
 Frames/
 
-# Ignore trained model files
+# Ignore model
 Models/*.h5
 
-# Python cache
+# Node
+node_modules/
+
+# Python
 __pycache__/
 *.pyc
 
-# Logs
-*.log
-
-# Env files
+# Env
 .env
 
-# IDE files
+# IDE
 .vscode/
 .idea/
-
-# OS junk
-.DS_Store
-Thumbs.db
