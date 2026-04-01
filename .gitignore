@@ -1,0 +1,24 @@
+# Ignore datasets and frames
+Dataset/
+Frames/
+
+# Ignore trained model files
+Models/*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Env files
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
