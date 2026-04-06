@@ -1,6 +1,7 @@
 # Ignore datasets and frames
 Dataset/
 Frames/
+static/uploads
 
 # Ignore model
 Models/*.h5
